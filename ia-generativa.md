@@ -2,6 +2,10 @@
     <video src="/assets/video-ia.mp4" width="400" muted loop autoplay></video>
 </p>
 
+<p align="center">
+    <image src="/assets/videoframe_1668.png" width="400"></video>
+</p>
+
 
 <h2 align="center">Preview do Podcast</h2>
 
