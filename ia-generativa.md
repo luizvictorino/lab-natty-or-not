@@ -1,5 +1,5 @@
 <p align="center">
-    <image src="/assets/videoframe_1668.png" width="400"></video>
+    <image src="/assets/videoframe_1668.png" width="200"></video>
 </p>
 
 <h2 align="center">Preview do Podcast</h2>
@@ -7,7 +7,6 @@
 <div align="center">
     <audio src="assets/audio.mp3" controls title="Podcast-IA"></audio>
 </div>
-
 <br>
 
 # ✨ **Desvendando os Mistérios da Inteligência Artificial Generativa:** Uma Jornada Extraordinária pela Criatividade sem Limites
