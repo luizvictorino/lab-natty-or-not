@@ -1,17 +1,13 @@
 <p align="center">
-    <video src="/assets/video-ia.mp4" width="400" muted loop autoplay></video>
-</p>
-
-<p align="center">
     <image src="/assets/videoframe_1668.png" width="400"></video>
 </p>
-
 
 <h2 align="center">Preview do Podcast</h2>
 
 <div align="center">
     <audio src="assets/audio.mp3" controls title="Podcast-IA"></audio>
 </div>
+
 <br>
 
 # ✨ **Desvendando os Mistérios da Inteligência Artificial Generativa:** Uma Jornada Extraordinária pela Criatividade sem Limites
